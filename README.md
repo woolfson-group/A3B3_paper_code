@@ -12,7 +12,7 @@ Code to generate and analyse data used in the ["*De novo* design of parallel and
 
 ## Data Availability
 
-All original data files can be found at the [Zenodo repository]().
+All original data files can be found at the [Zenodo repository](https://zenodo.org/records/14616658).
 
 ---
 
