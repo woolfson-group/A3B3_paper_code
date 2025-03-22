@@ -71,4 +71,4 @@ All code needed to reproduce the results and analyse outputs is provided. Follow
 
 The directory also contains IPython notebooks to create all of the data plots used in the manuscript (`./notebooks/MS_figure_code.ipynb`) and the supplementary materials (`./notebooks/SM_figure_code.ipynb`).
 
-**Note:** the output filepaths are hardcoded for out directory hierarchy. These will need to be changed on a per user basis.
+**Note:** the output filepaths are hardcoded for our directory hierarchy. These will need to be changed on a per user basis.
