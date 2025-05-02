@@ -2,7 +2,7 @@
 
 ![TOC](./assets/toc.png)
 
-Code to generate and analyse data used in the ["*De novo* design of parallel and antiparallel A3B3 heterohexameric α-helical barrels"](https://www.biorxiv.org/content/10.1101/2024.09.25.614870v1) paper.
+Code to generate and analyse data used in the ["*De novo* design of parallel and antiparallel A3B3 heterohexameric α-helical barrels"](https://pubs.acs.org/doi/full/10.1021/acs.biochem.4c00584) paper.
 
 **Authors**: Joel J. Chubb, Katherine I. Albanese, Alison Rodger, and Derek N. Woolfson.
 
